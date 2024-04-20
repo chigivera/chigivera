@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 ## Hi there 👋
 
 I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
