@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 ## Hi there 👋
 
-I am a Full Stack Developper and Data analyst, I love playing with code to make creative and innovative solutions.
+🚀 Junior MERN Full-Stack Developer & Data Analyst 📊 passionate about leveraging data to create innovative and seamless software services. My skills encompass both software development and data analytics, enabling me to deliver intelligent, data-driven solutions that enhance user experience and drive business success.
 
 **I love working with**
 
@@ -19,7 +19,7 @@ I am a Full Stack Developper and Data analyst, I love playing with code to make 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<p align="center">
+<p align="between">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chigivera&layout=compact&title_color=fff&text_color=fff&bg_color=0D1117" height="160px" />
 <img src="https://github-readme-stats.vercel.app/api?username=chigivera&title_color=fff&text_color=fff&icon_color=F7DF1E&bg_color=0D1117&show_icons=true" height="160px"/>
 </p>
